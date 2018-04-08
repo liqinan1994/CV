@@ -63,8 +63,7 @@ tab组件
 2.能用原生JS实现常见效果。熟悉一些重要的概念如原型、闭包、原型链、面向对象、异步等。熟悉DOM操作、Ajax的原理。熟悉部分ES6语法，并能在实际项目中应用。能运用模块化.面向对象的方式编程。
 3.熟悉jQuery的应用, 有过jquery的开发经验
 4.了解三大框架之一的Vue，有使用Vue的开发经验, 了解MVVM模式。
-5.了解使用过bootstrap、requirejs、npm、less等工具,有实际的开发经验
-熟悉Webpack、Gulp等前端自动化工具。
+5.了解使用过bootstrap、requirejs、npm、less等工具,有实际的开发经验,熟悉Webpack等前端自动化工具。
 5.对HTTP协议有了解。
 
 #### 自我评价
